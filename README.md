@@ -284,8 +284,6 @@ Follows the **Agile Iterative SDLC Model**, enabling continuous improvements acr
 
 ---
 
-## 🤝 Contributing
-
 ```bash
 git checkout -b feature/your-feature-name
 git commit -m "Add: your feature description"
@@ -295,18 +293,7 @@ git push origin feature/your-feature-name
 
 ---
 
-## 👥 Team
 
-| Name | Roll No. | Role |
-|---|---|---|
-| **Hemanshu Sojitra** | 24C21551 | Developer |
-| **Samiha Vohra** | 24C21556 | Developer |
-| **Tejas Solanki** | 23C25016 | Developer |
-
-**Project Guide:** Mr. Meet Pandya
-**Institution:** ITM SLS Baroda University — Dept. of CS & IT, 2026
-
----
 
 <div align="center">
 
