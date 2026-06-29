@@ -1,5 +1,22 @@
 <div align="center">
 
+
+
+<img src="ov_splash.jpeg" width="180"/>
+
+<br/><br/>
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="middle">
+      <img src="ic_launcher.png" width="72" height="72" style="border-radius:16px;"/>
+    </td>
+    <td valign="middle" style="padding-left:14px;">
+      <h1> Object Vision </h1>
+    </td>
+  </tr>
+</table>
+
 <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
@@ -9,11 +26,7 @@
 
 <br/><br/>
 
-<img src="ov_splash.jpeg" width="180"/>
 
-<br/><br/>
-
-# 👁️ ObjectVision
 
 ### Real-time On-Device Object Detection & Smart Product Analysis
 
