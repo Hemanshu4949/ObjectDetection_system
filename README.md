@@ -12,7 +12,7 @@
       <img src="ic_launcher.png" width="72" height="72" style="border-radius:16px;"/>
     </td>
     <td valign="middle" style="padding-left:14px;">
-      <h1> Nutri Scan </h1>
+      <h1> Object Vision </h1>
     </td>
   </tr>
 </table>
